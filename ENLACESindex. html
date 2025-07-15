@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PAGINA PRINCIPAL</title>
+</head>
+<body>
+
+    <h1> Esta es la primera pagina </h1>
+    <p>
+        ¿Como se siente saber lo basico de hmtl?
+    </p>
+
+    <h2> ENLACES </h2>
+<!-- ETIQUETA "a" = -->
+    <a href="enlaces_1.html" title="subtitulo de la pagina">Primer enlaces 1</a>
+    <!--EL TITTLE es para el cuadrado al momento de poner el cursor en el link-->
+    
+    <a href="https://mx.pinterest.com/kazumisoto26/dibujo/">Enlace Pinterts</a>
+
+    <h2>Enlaces Target BLANK</h2>
+    <a href="https://mx.pinterest.com/kazumisoto26/dibujo/" target="_blank">Enlace VENTANA</a>
+    <!--ESTE ES PARA QUE EL LINK ABARA EN OTRA PESTAÑA Y NO EN LA MISMA USANDO: "TARGET"-->
+    <!--SELF= Abrir en la misma ventana-->
+    <!--BLANK= Abrir en la OTRA ventana-->
+
+</body>
+</html>
